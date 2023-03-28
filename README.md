@@ -21,7 +21,7 @@ $body = array(
 ```php
 $body = array(
     "api_key" => "b97b74f802c2802b94358267c160bbd282f5c384",
-    "receiver" => "6285174902345",
+    "receiver" => "6285xxx",
     "data" => array(
         "url" => "https://i.ibb.co/QbmsBqs/code.png",
         "media_type" => "image",
